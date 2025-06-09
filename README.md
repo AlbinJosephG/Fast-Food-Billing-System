@@ -19,7 +19,7 @@ C++ Fast Food Management System using classes, objects, and polymorphism. Manage
 2. Compile the code:
    ```bash
    g++ fastfood.cpp -o fastfood
-3.Run the program:
+3. Run the program:
    ```bash
-    ./fastfood 
+   ./fastfood 
 
