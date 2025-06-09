@@ -2,7 +2,7 @@
 C++ Fast Food Management System using classes, objects, and polymorphism. Manage menu, take orders, calculate bills with GST and VAT, track daily sales and item quantities. Console-based, uses STL containers like vectors &amp; maps
 
 
-## 🔧 Features
+##  Features
 
 - Add/Delete menu items dynamically
 - Take multiple customer orders with unique Customer IDs
@@ -13,9 +13,7 @@ C++ Fast Food Management System using classes, objects, and polymorphism. Manage
 - Tracks total daily sales
 - Displays item-wise quantity sold
 
----
-
-## 💻 How to Run
+##  How to Run
 
 1. Make sure you have a C++ compiler installed (e.g., `g++`)
 2. Compile the code:
