@@ -1,11 +1,6 @@
 # Fast-Food-Billing-System
 C++ Fast Food Management System using classes, objects, and polymorphism. Manage menu, take orders, calculate bills with GST and VAT, track daily sales and item quantities. Console-based, uses STL containers like vectors &amp; maps
 
-# Fast Food Billing System 🍔
-
-A console-based C++ application for managing a fast food restaurant's billing system with tax calculations and detailed sales summaries.
-
----
 
 ## 🔧 Features
 
